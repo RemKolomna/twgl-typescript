@@ -4,7 +4,7 @@
    * @module twgl
    */
 
-export module twgl {
+export module twgl3 {
 
     export interface IShader {
         vertex: string;
